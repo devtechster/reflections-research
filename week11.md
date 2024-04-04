@@ -1,4 +1,5 @@
-  - **Title**: "How Data Analysts Use a Visualization Grammar in Practice" by Xiaoying Pu and Matthew Kay [link] ("https://mucollective.northwestern.edu/files/2023-vis-grammar-in-practice.pdf").
+  - **Title**: "How Data Analysts Use a Visualization Grammar in Practice" by Xiaoying Pu and Matthew Kay
+   [link]("https://mucollective.northwestern.edu/files/2023-vis-grammar-in-practice.pdf").
 
 - **Paper Analysis**:
   - Investigated how analysts use visualization grammars like ggplot2 in R or the Vega ecosystem in JavaScript during their analyses.
