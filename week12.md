@@ -1,0 +1,13 @@
+- **Title**: Exploring the Value of Visualization by Jarke J. van Wijk
+- **Paper Link**: [Access the paper here](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=fe03ac212d20e2b0de223601702de87e9008c330)
+- **Author's Perspective**:
+  - Suggests looking at visualization from a technical standpoint, measuring its worth based on how well it works and how efficiently it operates.
+- **Proposed Economic Model**:
+  - Introduces a simple way to gauge the value of visualization using an economic approach.
+  - Considers costs like development, user training, and usage expenses, along with benefits like gained knowledge.
+- **Key Points from the Model**:
+  - Differentiates between costs (Ci, Cu, Cs, Ce) and gains (G) to understand the overall value.
+  - Discusses how visualization can be subjective, initial user costs can be high, and interaction plays a crucial role.
+- **Conclusion**:
+  - Emphasizes the importance of proving the effectiveness, efficiency, and real-world adoption of visualization by carefully weighing costs against benefits.
+  - Suggests an alternative view of visualization as an art form, highlighting its value through creativity, attractiveness, and the intellectual satisfaction of crafting innovative solutions.
