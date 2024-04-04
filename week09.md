@@ -1,5 +1,4 @@
-# Reviewed a research paper titled 
-"Enthusiastic and Grounded, Avoidant and Cautious: Understanding Public Receptivity to Data and Visualizations" 
+# "Enthusiastic and Grounded, Avoidant and Cautious: Understanding Public Receptivity to Data and Visualizations" 
 ([Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10292909)).
 - Explored how data visualization is perceived by individuals outside the field/general public.
 - Study involved 19 participants from diverse backgrounds.
