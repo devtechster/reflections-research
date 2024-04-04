@@ -1,5 +1,5 @@
 - **Paper Analysis**:
-  - [Paper Link]("https://dl.acm.org/doi/pdf/10.1145/3491101.3519685") 
+  - [Paper Link](https://dl.acm.org/doi/pdf/10.1145/3491101.3519685)
   - Focuses on the ethics of gathering race and ethnicity data for Human-Computer Interaction (HCI) research.
 - **Ethical Concerns**:
   - Addresses the lack of regulations on collecting sensitive background data.
