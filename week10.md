@@ -1,0 +1,15 @@
+- **Title**: Enhancing Transparency in Data Visualization: Moving from Static to Interactive Graphs
+- **Paper Link**: [Read the paper here](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002484#pbio-1002484-g001)
+- **Discussion Overview**:
+  - Traditional static line graphs have limitations, especially with small or overlapping datasets.
+  - Line graphs are prevalent, appearing in 61% of papers, making them the second most common figure type for continuous data presentation.
+- **Objective**:
+  - Transitioning to interactive line graphs for better data comprehension.
+  - Interactive features enable users to explore various aspects and layers of the dataset, such as individual data points and changes across different conditions or time points.
+- **Benefits of Interactivity**:
+  - Enhances transparency and understanding of data.
+  - Offers a more detailed and dynamic perspective.
+  - Reduces misinterpretation risks associated with static graphs.
+- **Promotion of Hands-On Data Analysis**:
+  - Encourages deeper exploration of specifics.
+  - Fosters a culture of transparency and critical evaluation in research.
