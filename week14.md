@@ -1,5 +1,5 @@
- **Visualization in Operations Management Research**
-[!link]("https://pubsonline.informs.org/doi/epdf/10.1287/ijds.2021.0005")
+**Visualization in Operations Management Research**  
+[Link to the Paper](https://pubsonline.informs.org/doi/epdf/10.1287/ijds.2021.0005)
   - Researchers and reviewers often observe inadequate or incorrect utilization of visualization techniques in Operations Management (OM) studies, potentially leading to biased or inaccurate interpretations.
   - The rapid advancement of technical capabilities and the abundance of available data have surpassed the development of comprehensive guidelines or standards for effective visualization in OM research.
   - There is a notable lack of academic literature specifically addressing the role of visualization in improving the clarity and impact of research findings in OM.
